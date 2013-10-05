@@ -1,0 +1,12 @@
+*** Now run 'gdb'.
+***
+Could not open option rom 'sgabios.bin': No such file or directory
+6828 decimal is 15254 octal!
+Physical memory: 66556K available, base = 640K, extended = 65532K
+kernel panic at kern/pmap.c:124: mem_init: This function is not finished
+
+Welcome to the JOS kernel monitor!
+Type 'help' for a list of commands.
+x 1, y 3, z 4
+
+QEMU: Terminated via GDBstub
